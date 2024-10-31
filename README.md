@@ -53,8 +53,8 @@
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestJS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="nextjs" width="40" height="40"/>
+  <img src="[https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg](https://www.vectorlogo.zone/logos/php/php-icon.svg)" alt="php" width="40" height="40"/>
 </p>
-
 
   <h3 align="center">Design and UI/UX 🎨</h3>
   <p align="center">
@@ -72,6 +72,8 @@
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg](https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg)" alt="BigTable" width="40" height="40"/>
+      <img src="[https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/images/bigtable.svg](https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/aws-dynamodb.svg)" alt="BigTable" width="40" height="40"/>
 </p>
 
  <h3 align="center">Other Technologies 🤖</h3>
@@ -90,8 +92,10 @@
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="dynamodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="bigtable" width="40" height="40"/>
-</p>
-
+<img src="[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)" alt="PowerBI" width="40" height="40"/>
+ <img src="[[[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://github.com/gilbarbara/logos/blob/main/logos/zsh.svg)" alt="Bash" width="40" height="40"/>
+<img src="[[[[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://github.com/gilbarbara/logos/blob/main/logos/zsh.svg)](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)" alt="Linux" width="40" height="40"/>
+<img src="[[[[[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://github.com/gilbarbara/logos/blob/main/logos/zsh.svg)](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_excel2.svg)" alt="Excel" width="40" height="40"/>
 
 </details>
 
