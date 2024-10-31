@@ -86,7 +86,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pandadoc/pandadoc-icon.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://iconos8.es/icon/117561/microsoft-excel-2019" alt="excel" width="40" height="40"/>
+  <img src="[https://iconos8.es/icon/117561/microsoft-excel-2019](https://www.flaticon.com/free-icon/logo_15465638?term=excel&page=1&position=5&origin=tag&related_id=15465638)" alt="excel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="dynamodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="bigtable" width="40" height="40"/>
