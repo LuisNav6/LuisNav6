@@ -88,15 +88,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pandadoc/pandadoc-icon.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.flaticon.com/free-icon/logo_15465638?term=excel&page=1&position=5&origin=tag&related_id=15465638" alt="excel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googleCloud" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-   <img src=" https://github.com/gilbarbara/logos/blob/main/logos/zsh.svg" alt="Zsh" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_excel2.sv" alt="Excel" width="40" height="40"/>
+<img src="[https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_excel2.sv](https://github.com/detain/svg-logos/blob/master/svg/e/excel-4.svg)" alt="Excel" width="40" height="40"/>
 
 </details>
 
