@@ -94,7 +94,7 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-<img src="[https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_excel2.sv](https://github.com/detain/svg-logos/blob/master/svg/e/excel-4.svg)" alt="Excel" width="40" height="40"/>
+<img src="https://github.com/detain/svg-logos/blob/master/svg/e/excel-4.svg" alt="Excel" width="40" height="40"/>
 
 </details>
 
