@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://LuisNav6.github.io/LuisNav6/">
-    <img src="https://github.com/LuisNav6/LuisNav6/blob/main/icon.png" alt="rotating icon" class="rotate-icon" width="50" height="50">
+    <img src="https://github.com/LuisNav6/LuisNav6/blob/main/icon.png" alt="rotating icon" class="rotate-icon" width="200" height="200">
     </a>
 </div>
 
@@ -47,10 +47,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt="dotnet" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg" alt="rust" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestJS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="nextjs" width="40" height="40"/>
 </p>
 
 
@@ -68,8 +70,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="dynamodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigtable/google_bigtable-icon.svg" alt="bigtable" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
 </p>
@@ -79,21 +79,17 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Materialize_CSS_logo.svg" alt="materialize" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/WordPress_logo.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="40" height="40"/>
-  <img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/docker-library/logos/master/100px/docker.png" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit_learnlogo_small.png" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://www.statsmodels.org/stable/_static/statsmodels-logo.svg" alt="statsmodels" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Excel_Logo.svg" alt="excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Cisco_logo.svg" alt="cisco" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Google_Cloud_Platform_logo.svg" alt="google-cloud" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pandadoc/pandadoc-icon.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://iconos8.es/icon/117561/microsoft-excel-2019" alt="excel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="dynamodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="bigtable" width="40" height="40"/>
 </p>
 
 
