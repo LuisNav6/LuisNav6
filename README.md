@@ -53,7 +53,7 @@
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestJS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="nextjs" width="40" height="40"/>
-  <img src="[https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg](https://www.vectorlogo.zone/logos/php/php-icon.svg)" alt="php" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </p>
 
   <h3 align="center">Design and UI/UX 🎨</h3>
