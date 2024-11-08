@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://LuisNav6.github.io/LuisNav6/">
-    <img src="https://github.com/LuisNav6/LuisNav6/blob/main/PLYH.gif" alt="rotating icon" class="rotate-icon" width="200" height="200">
+    <img src="https://github.com/LuisNav6/LuisNav6/blob/main/LPYH.gif">
     </a>
 </div>
 
