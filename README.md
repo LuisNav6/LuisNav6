@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://LuisNav6.github.io/LuisNav6/">
-    <img src="https://github.com/LuisNav6/LuisNav6/blob/main/planet.gif">
+    <img src="https://github.com/LuisNav6/LuisNav6/blob/main/avatar.png">
     </a>
 </div>
 
