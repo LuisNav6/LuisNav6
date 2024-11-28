@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hello, I'm Luis Navarrete 👨‍💻</h1>
-  <h3 align="center">A Computer System Engineer from Mexico 🇲🇽 and Data Scientist in progress 📊🧠🤖</h3>
+  <h3 align="center">A Computer System Engineer from Mexico 🇲🇽 and Data Scientist 📊🧠🤖</h3>
 </div>
 
 ---
