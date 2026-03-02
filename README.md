@@ -108,16 +108,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNav6&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages">
   </p>
 
-  <h3>Statistics 📈</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisNav6&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNav6&theme=gruvbox&hide_border=true" alt="Streak Stats">
-  </p>
-</details>
-
-<details>
-  <summary>Latest Activity Graph 📈</summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisNav6&theme=github-compact&hide_border=true" alt="Activity Graph">
-  </p>
 </details>
