@@ -100,9 +100,6 @@
 </details>
 
 <details>
-  <summary>GitHub Profile Stats 📊</summary>
-  <h2 align="center">GitHub Stats 📊</h2>
-
   <h3>Languages 📚</h3>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNav6&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages">
