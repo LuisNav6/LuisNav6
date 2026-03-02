@@ -98,11 +98,3 @@
 <img src="https://github.com/detain/svg-logos/blob/master/svg/e/excel-4.svg" alt="Excel" width="40" height="40"/>
 
 </details>
-
-<details>
-  <h3>Languages 📚</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNav6&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages">
-  </p>
-
-</details>
